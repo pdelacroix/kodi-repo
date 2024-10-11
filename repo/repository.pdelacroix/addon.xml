@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="repository.pdelacroix" name="pdelacroix" version="0.1.0" provider-name="pdelacroix">
-    <extension point="xbmc.addon.repository" name="Example Repository">
+<addon id="repository.pdelacroix" name="pdelacroix" version="0.3.0" provider-name="pdelacroix">
+    <extension point="xbmc.addon.repository" name="pdelacroix's Repository">
         <dir>
-            <info compressed="false">https://raw.githubusercontent.com/pdelacroix/kodi-repo/main/repo/zips/addons.xml</info>
-            <checksum>https://raw.githubusercontent.com/pdelacroix/kodi-repo/main/repo/zips/addons.xml.md5</checksum>
-            <datadir zip="true">https://raw.githubusercontent.com/pdelacroix/kodi-repo/main/repo/zips/</datadir>
+            <info compressed="false">https://pdelacroix.github.io/kodi-repo/repo/zips/addons.xml</info>
+            <checksum>https://pdelacroix.github.io/kodi-repo/repo/zips/addons.xml.md5</checksum>
+            <datadir zip="true">https://pdelacroix.github.io/kodi-repo/repo/zips/</datadir>
         </dir>
     </extension>
     <extension point="xbmc.addon.metadata">
-        <summary>pdelacroix repository</summary>
+        <summary>pdelacroix's repository</summary>
         <description>Repository for experimental Kodi stuff</description>
         <disclaimer></disclaimer>
         <platform>all</platform>
