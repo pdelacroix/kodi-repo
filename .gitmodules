@@ -1,0 +1,3 @@
+[submodule "repo/skin.embuary"]
+	path = repo/skin.embuary
+	url = git@github.com:pdelacroix/skin.embuary.git
